@@ -10,4 +10,6 @@
 
     /* Font */
     --step-4: clamp(2.44rem, calc(2.12rem + 1.59vw), 3.36rem);
+    --step-1: clamp(1.25rem, calc(1.05rem + 1.01vw), 1.83rem);
+    --step-2: clamp(1.56rem, calc(1.26rem + 1.53vw), 2.44rem);
 }
