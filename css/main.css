@@ -1,5 +1,4 @@
 
-@import "./css/calc.css";
 
 @import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro&display=swap');
@@ -17,7 +16,7 @@
 }
 
 body {
-    min-height: 100%;
+    min-height: 100svh;
     line-height: 1.5;
     background-color: #F0F0F0;
     font-family: 'Josefin Sans', sans-serif;
